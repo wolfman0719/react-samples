@@ -12,7 +12,7 @@
 
 以下のファイルをここからダウンロード（またはgit clone）し、上で作成したテンプレートディレクトリにコピーする
 
-- src
+- react/src
 
   App.tsx
 
@@ -93,3 +93,9 @@ IISの場合は、デフォルト設定でOK
 >write ##class(TEST.Setup).SetupLocal(dir)
 ```
 
+## ファイルを保存する場所を指定
+
+TEST.Brokerのuploadメソッドにはファイルの出力先を環境に合わせて変更する
+
+`set of = "/Users/hiroshisato/temp/"_filename`
+## ブラウザに表示されたファイルを選択ボタンをクリックし、適当なファイルを選択
