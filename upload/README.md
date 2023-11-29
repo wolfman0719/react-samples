@@ -84,7 +84,7 @@ IISの場合は、デフォルト設定でOK
 # IRIS設定
 
 
-## ローカルセットアップ
+## ローカルセットアップ（WindowsやMacOS上にインストールしたIRIS上でセットアップする）
 
 ```
 >set file = "c:\git\upload\src\SetUp.cls"
