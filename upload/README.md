@@ -4,7 +4,7 @@
 
 ```% npx create-react-app upload --template typescript```
 
-```% ｃｄ upload```
+```% cd upload```
 
 ## axios インストール
 
